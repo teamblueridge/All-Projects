@@ -1,6 +1,8 @@
 # UUID                                  	Group Name
 #
 208d744989bde70ed0d0114602e75c85335b8dde	Non-Interactive Users
+66e20fe22c2effd82cc005077d71c8e302b93991	Non-Interactive Users
+8ea2ea1afe32ecd6d048ecc36a41a65e5f9e4adb	Administrators
 b465d0b2d6294ad82245a9cdef777f0190ee5c73	Administrators
 global:Anonymous-Users                  	Anonymous Users
 global:Project-Owners                   	Project Owners
